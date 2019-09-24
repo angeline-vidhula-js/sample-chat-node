@@ -1,0 +1,24 @@
+{
+  "name": "project-chat",
+  "version": "1.0.0",
+  "description": "Sample chat app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angeline-vidhula-js/sample-chat-node.git"
+  },
+  "author": "Diky Hadna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angeline-vidhula-js/sample-chat-node/issues"
+  },
+  "homepage": "https://github.com/angeline-vidhula-js/sample-chat-node#readme",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
